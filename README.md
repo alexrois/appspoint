@@ -3,11 +3,11 @@ If no, use appspoint and be happy. This project will help you create awesome thi
 
 
 ## General info
-Create subscribtion-based app without any effort. With appspoint you have all project skelethon for your web app. Frontend and backend come together in clear app template.
+Create subscribtion-based app without any effort. With appspoint you have all project skeleton for your web app. Frontend and backend come together in clear app template.
 
 
 ## Frontend
-Appspoint use Foundation 6 responsive front-end framework so your app will be work on any kind of device. You can change HTML, CSS or JavaScript code for your project. Or only change content. That's it!
+Appspoint use Foundation 6 responsive front-end framework so your app will work on any kind of device. You can change HTML, CSS or JavaScript code for your project. Or only change content. That's it!
 
 Frontend is represented as one-page marketing site containing next parts:
 
