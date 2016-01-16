@@ -30,9 +30,9 @@
     margin: 0; }
   .footer .links a {
     list-style: none;
-    font-weight: bold;
+    /*font-weight: bold;*/
     color: #ffffff;
-    padding: 3rem 0 2rem;
+    padding: 1rem 0 1rem;
     margin: 0; }
     .footer .links a::after {
       content: "•";
