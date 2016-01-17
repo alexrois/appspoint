@@ -54,6 +54,30 @@
     .hero1 p {
       text-align: right; } }
 
+/*Features styles*/
+.features {
+  text-align: center;
+  margin-top: 6rem; }
+  .features hr {
+    width: 25%;
+    margin: 1rem auto; }
+  .features .round-icon {
+    background-color: #E87E04;
+    border-radius: 50%;
+    display: table;
+    height: 100px;
+    margin: -61px auto 1rem;
+    width: 100px;
+    font-size: 3rem; }
+    .features .round-icon span {
+      color: #fff;
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle; }
+  @media only screen and (max-width: 40em) {
+    .features .columns {
+      margin-bottom: 5rem; } }
+
 /*Footer styles*/
 .hero {
   /*background: url("") no-repeat center center;*/
