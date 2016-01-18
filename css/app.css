@@ -79,13 +79,13 @@
       margin-bottom: 5rem; } }
 
 /*Footer styles*/
-.hero {
+.hero3 {
   /*background: url("") no-repeat center center;*/
   background: linear-gradient(45deg, #2ecc71, dodgerblue);
   background-size: cover;
   height: 50vh;
   overflow: hidden; }
-  .hero h1 {
+  .hero3 h1 {
     color: #fff;
     text-align: center;
     position: relative;
