@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/*hero1 styles*/
+/* Hero1 styles */
 .hero1 {
   /*background: url("") no-repeat center center;*/
   background: linear-gradient(45deg, #2ecc71, dodgerblue);
@@ -54,7 +54,7 @@
     .hero1 p {
       text-align: right; } }
 
-/*Features styles*/
+/* Features styles */
 .features {
   text-align: center;
   margin-top: 6rem; }
@@ -78,7 +78,7 @@
     .features .columns {
       margin-bottom: 5rem; } }
 
-/*hero2 styles*/
+/* Hero2 styles */
 .hero2 {
   /*background: url("") no-repeat center center;*/
   background: linear-gradient(45deg, #2ecc71, dodgerblue);
@@ -118,7 +118,7 @@
   .quote-2 p {
     padding: 2rem; }
 
-/*Footer styles*/
+/* Footer styles */
 .hero3 {
   /*background: url("") no-repeat center center;*/
   background: linear-gradient(45deg, #2ecc71, dodgerblue);
