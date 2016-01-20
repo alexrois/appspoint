@@ -1,12 +1,13 @@
 # Do you really want to waste a lot of time creating web apps?
+
 If no, use appspoint and be happy. This project will help you create awesome things very fast.
 
-
 ## General info
+
 Create subscribtion-based app without any effort. With appspoint you have all project skeleton for your web app. Frontend and backend come together in clear app template.
 
-
 ## Frontend
+
 Appspoint use Foundation 6 responsive front-end framework so your app will work on any kind of device. You can change HTML, CSS or JavaScript code for your project. Or only change content. That's it!
 
 Frontend is represented as one-page marketing site containing next parts:
@@ -21,4 +22,14 @@ Frontend is represented as one-page marketing site containing next parts:
 
 
 ## Backend
+
 Ruby programming language will be the best friend of all backend related tasks in appspoint. All stuff coming soon!
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/alexrois/appspoint.
+
+
+## License
+
+Appspoint is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
