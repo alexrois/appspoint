@@ -90,7 +90,7 @@
   background: linear-gradient(45deg, #2ecc71, dodgerblue);
   background-size: cover;
   height: 80vh;
-  margin-bottom: 3rem; }
+  margin: 3rem 0; }
 
 .circle-bg, .quote-1, .quote-2 {
   margin-top: -2rem;
@@ -176,7 +176,8 @@
   background: linear-gradient(45deg, #2ecc71, dodgerblue);
   background-size: cover;
   height: 50vh;
-  overflow: hidden; }
+  overflow: hidden;
+  margin-top: 3rem; }
   .hero3 h1 {
     color: #fff;
     text-align: center;
