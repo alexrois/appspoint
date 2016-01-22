@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+/* Log In form styles */
+.log-in-form {
+  border: 1px solid #cacaca;
+  padding: 1rem;
+  border-radius: 3px; }
+
 /* Hero1 styles */
 .hero1 {
   /*background: url("") no-repeat center center;*/
