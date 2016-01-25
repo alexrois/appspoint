@@ -1,12 +1,14 @@
 @charset "UTF-8";
 
 /* Log In form styles */
+
 .log-in-form {
   border: 1px solid #cacaca;
   padding: 1rem;
   border-radius: 3px; }
 
 /* Hero1 styles */
+
 .hero1 {
   /*background: url("") no-repeat center center;*/
   background: linear-gradient(45deg, #2ecc71, dodgerblue);
@@ -61,6 +63,7 @@
       text-align: right; } }
 
 /* Features styles */
+
 .features {
   text-align: center;
   margin-top: 6rem; }
@@ -85,6 +88,7 @@
       margin-bottom: 5rem; } }
 
 /* Hero2 styles */
+
 .hero2 {
   /*background: url("") no-repeat center center;*/
   background: linear-gradient(45deg, #2ecc71, dodgerblue);
@@ -125,6 +129,7 @@
     padding: 2rem; }
 
 /* Pricing Tables */
+
 .pricing-table {
   border: solid 1px #DDDDDD;
   margin-left: 0;
@@ -171,6 +176,7 @@
     text-align: center; }
 
 /* Footer styles */
+
 .hero3 {
   /*background: url("") no-repeat center center;*/
   background: linear-gradient(45deg, #2ecc71, dodgerblue);
