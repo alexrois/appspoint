@@ -22,8 +22,44 @@
           <li><a href="#">Features</a></li>
           <li><a href="#">Pricing</a></li>
           <li><a href="#">Blog</a></li>
-          <li><a href="#" class="success button">Sign Up</a></li>
-          <li><a href="#" class="button">Log In</a></li>
+          <li> <!-- start of signup button -->
+            <button class="success button" type="button" data-toggle="signup-dropdown">Sign Up</button>
+            <div class="large dropdown-pane" id="signup-dropdown" data-dropdown>
+              <form>
+                <div class="row column log-in-form">
+                  <h4 class="text-center">Sign up for Appspoint</h4>
+                  <label>Email
+                    <input type="text" placeholder="somebody@example.com">
+                  </label>
+                  <label>Username
+                    <input type="text" placeholder="Create your username">
+                  </label>
+                  <label>Password
+                    <input type="password" placeholder="Password">
+                  </label>
+                  <p><a type="submit" class="success button expanded">Sign Up</a></p>
+                </div>
+              </form>
+            </div>
+          </li> <!-- end of signup button -->
+          <li> <!-- start of login button -->
+            <button class="button" type="button" data-toggle="login-dropdown">Log In</button>
+            <div class="large dropdown-pane" id="login-dropdown" data-dropdown>
+              <form>
+                <div class="row column log-in-form">
+                  <h4 class="text-center">Log in with your email or username</h4>
+                  <label>Username
+                    <input type="text" placeholder="somebody@example.com">
+                  </label>
+                  <label>Password
+                    <input type="password" placeholder="Password">
+                  </label>
+                  <p><a type="submit" class="button expanded">Log In</a></p>
+                  <p class="text-center"><a href="#">Forgot your password?</a></p>   
+                </div>
+              </form>
+            </div>
+          </li> <!-- end of login button -->
         </ul>
       </div>
     </div>
