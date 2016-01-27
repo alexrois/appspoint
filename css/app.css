@@ -129,6 +129,9 @@
 
 /* Pricing Tables */
 
+.pricing {
+  margin-top: 2rem; }
+
 .pricing-table {
   border: solid 1px #DDDDDD;
   margin-left: 0;
