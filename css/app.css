@@ -1,5 +1,14 @@
 @charset "UTF-8";
 
+/* Top bar styles */
+
+#logo {
+  font-size: 1.5em;
+  color: inherit;
+  text-transform: uppercase;
+  padding: 0 1rem;
+  font-weight: bold; }
+
 /* Log In form styles */
 
 .log-in-form {
