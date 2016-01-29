@@ -23,13 +23,10 @@
           <li><a href="#">Pricing</a></li>
           <li><a href="#">Blog</a></li>
           <li> <!-- start of signup button -->
-            <button class="success button" type="button" data-toggle="signup-dropdown">Sign Up</button>
-            <div class="large dropdown-pane" id="signup-dropdown" data-dropdown>
+            <button class="success button" type="button" data-open="signupModal">Sign Up</button>
+            <div class="small reveal" id="signupModal" data-reveal>
               <form>
                 <div class="row column log-in-form">
-                  <button class="close-button" aria-label="Close alert" type="button" data-close>
-                    <span aria-hidden="true">&times;</span>
-                  </button>
                   <h4 class="text-center">Sign up for Appspoint</h4>
                   <label>Email
                     <input type="email" placeholder="somebody@example.com">
@@ -43,18 +40,18 @@
                   <input class="success button expanded" type="submit" value="Create my account" />
                 </div>
               </form>
+              <button class="close-button" data-close aria-label="Close modal" type="button">
+                <span aria-hidden="true">&times;</span>
+              </button>
             </div>
           </li> <!-- end of signup button -->
           <li> <!-- start of login button -->
-            <button class="button" type="button" data-toggle="login-dropdown">Log In</button>
-            <div class="large dropdown-pane" id="login-dropdown" data-dropdown>
+            <button class="button" type="button" data-open="loginModal">Log In</button>
+            <div class="tiny reveal" id="loginModal" data-reveal>
               <form>
                 <div class="row column log-in-form">
-                  <button class="close-button" aria-label="Close alert" type="button" data-close>
-                    <span aria-hidden="true">&times;</span>
-                  </button>
                   <h4 class="text-center">Log in with your email or username</h4>
-                  <label>Username
+                  <label>Email or Username
                     <input type="text" placeholder="somebody@example.com">
                   </label>
                   <label>Password
@@ -64,6 +61,9 @@
                   <p class="text-center"><a href="#">Forgot your password?</a></p>   
                 </div>
               </form>
+              <button class="close-button" data-close aria-label="Close modal" type="button">
+                <span aria-hidden="true">&times;</span>
+              </button>
             </div>
           </li> <!-- end of login button -->
         </ul>
