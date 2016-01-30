@@ -18,20 +18,10 @@
 /* Hero1 styles */
 
 .hero1 {
-  /*background: url("") no-repeat center center;*/
   background: linear-gradient(45deg, #2ecc71, dodgerblue);
   background-size: cover;
   height: 70vh;
   margin-bottom: 3rem; }
-  /*.hero1:before {*/
-  /*  content: '';*/
-  /*  position: absolute;*/
-  /*  top: 0;*/
-  /*  right: 0;*/
-  /*  bottom: 0;*/
-  /*  left: 0;*/
-  /*  background-image: linear-gradient(to bottom right, #002f4b, #dc4225);*/
-  /*  opacity: .8; }*/
   .hero1 .intro {
     padding: 3rem;
     position: relative;
@@ -218,7 +208,6 @@
     margin: 0; }
   .footer .links a {
     list-style: none;
-    /*font-weight: bold;*/
     color: #ffffff;
     padding: 1rem 0 1rem;
     margin: 0; }
